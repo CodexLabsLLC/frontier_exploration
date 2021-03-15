@@ -29,6 +29,7 @@
   <run_depend>std_msgs</run_depend>
   <run_depend>std_srvs</run_depend>
   <run_depend>tf</run_depend>
+  <run_depend>polygon_layer</run_depend>
   <build_depend>roslint</build_depend>
 
   <build_depend>message_generation</build_depend>
